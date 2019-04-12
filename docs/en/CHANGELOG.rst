@@ -3,7 +3,7 @@ Changelog
 
 All notable changes to this project will be documented in this file.
 
-[core-0.2/it-0.2] - 2019-03-13
+[core-0.2;it-0.2] - 2019-03-13
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Added
